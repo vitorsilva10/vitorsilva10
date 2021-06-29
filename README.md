@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**vitorsilva10/vitorsilva10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Prazer, Sou o Vitor!  👨‍💻
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏻‍💻 Estudante de Ciências da Computação - UNIFBV
+- 🔍 Atualmente aberto a novas oportunidades.
+- 📡 Neste momento buscando o maximo de conhencimento
+- 💬 Sobre mim: Aficionado por games, tecnologia e astronomia!!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsilva10&layout=compact)](https://github.com/vitorsilva10/github-readme-stats)
+
+
+
+**Contato**
+
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorsilva5018@gmail.com)](mailto:vitorsilva5018@gmail.com)
+
+
+
+
+
+ 
+
